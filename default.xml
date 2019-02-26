@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<manifest>
+    <remote name="android_v6.0_dtzq" fetch="git@gitlab.inin88.com:mobile-stock-dtzq/android-v6.0.git" />
+    <project path="app" name="android_v6.0_dtzq"/>
+    <default remote="android_v6.0_dtzq" revision="develop"/>
+</manifest>
